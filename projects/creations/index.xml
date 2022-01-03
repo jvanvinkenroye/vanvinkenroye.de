@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creations on Jan Vanvinkenroye</title>
+    <link>https://vanvinkenroye.de/projects/creations/</link>
+    <description>Recent content in Creations on Jan Vanvinkenroye</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de_DE</language>
+    
+	<atom:link href="https://vanvinkenroye.de/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

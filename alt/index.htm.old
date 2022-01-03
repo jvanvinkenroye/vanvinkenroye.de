@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<!--	
+	Yanone-Font:	Jan Gerne (SIL Open Font License)
+					http://www.yanone.de/typedesign/kaffeesatz/
+					http://www.google.com/fonts/specimen/Yanone+Kaffeesatz
+	Icons:			Jelio Dimitrov
+					http://dribbble.com/shots/384760-Free-Social-Icons
+-->
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Jan Vanvinkenroye</title>
+	<link href="yanone.css" rel="stylesheet" type="text/css" />
+	<link href="personal.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<h1>Jan Vanvinkenroye</h1>
+	<h2>Sozialarbeiter, Erziehungswissenschaftler und Technikenthusiast</h2>
+
+	<div id="biografie">
+		<p>Ich engagiere mich dafür, dass Leute ihr Wissen über die Welt zu und ihre Handlungsfähigkeit zu erweitern können. Dies gilt besonders für Soziale Kompetenzen und IT. </p>
+		<p>Dafür arbeite ich als Dozent, in Forschung & Entwicklung sowie als Organisator.</p>
+	</div>
+
+	<div id="links">
+		<a href="https://twitter.com/jvanvinkenroye"><img src="twitter.png" alt="Twitter" /></a>
+		<a href="https://www.facebook.com/jvanvinkenroye"><img src="facebook.png" alt="Facebook" /></a>
+		<a href="http://www.youtube.com/jvanvinkenroye"><img src="youtube.png" alt="YouTube" /></a>
+		<a href="/blog"><img src="wp.png" alt="RSS-Feed" /></a> 
+<!--		<a href="#"><img src="rss.png" alt="RSS-Feed" /></a> --!>
+	</div>
+
+	<div id="logo">
+<!---		<img src="logo.png" alt="Einstein" />A 
+-->	</div>
+</body>
+
+</html>

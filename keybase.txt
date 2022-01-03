@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jvanvinkenroye
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vanvinkenroye.de
+  * I am jvanvinkenroye (https://keybase.io/jvanvinkenroye) on keybase.
+  * I have a public key ASDRs187FvsEn0vaqM9wQoDP7_pt2KlLYjUEOthuShTyuAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d1b35f3b16fb049f4bdaa8cf704280cfeffa6dd8a94b6235043ad86e4a14f2b80a",
+      "host": "keybase.io",
+      "kid": "0120d1b35f3b16fb049f4bdaa8cf704280cfeffa6dd8a94b6235043ad86e4a14f2b80a",
+      "uid": "482c4d0ab50c3ce9544077ee31eed019",
+      "username": "jvanvinkenroye"
+    },
+    "merkle_root": {
+      "ctime": 1507318064,
+      "hash": "d400d91c545eaf685ff071b643f855d7cafc88acd691560fd2c40690dc462a66702cefa79330ecd6d990aedbe58004bc53b7b80dbd6ab4ec3e7d45b652aeae55",
+      "hash_meta": "e2c4c4da54e02d3d3d1b3abbd4b0ac368921e3b863db5fed7a18d8c3180433c0",
+      "seqno": 1529704
+    },
+    "service": {
+      "hostname": "vanvinkenroye.de",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507318075,
+  "expire_in": 504576000,
+  "prev": "72cd29b2196163d9585f851f49f1d4ee2fbf964894101c27bec998c7a7440b23",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0bNfOxb7BJ9L2qjPcEKAz+/6bdipS2I1BDrYbkoU8rgKp3BheWxvYWTFA017ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDFiMzVmM2IxNmZiMDQ5ZjRiZGFhOGNmNzA0MjgwY2ZlZmZhNmRkOGE5NGI2MjM1MDQzYWQ4NmU0YTE0ZjJiODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDFiMzVmM2IxNmZiMDQ5ZjRiZGFhOGNmNzA0MjgwY2ZlZmZhNmRkOGE5NGI2MjM1MDQzYWQ4NmU0YTE0ZjJiODBhIiwidWlkIjoiNDgyYzRkMGFiNTBjM2NlOTU0NDA3N2VlMzFlZWQwMTkiLCJ1c2VybmFtZSI6Imp2YW52aW5rZW5yb3llIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3MzE4MDY0LCJoYXNoIjoiZDQwMGQ5MWM1NDVlYWY2ODVmZjA3MWI2NDNmODU1ZDdjYWZjODhhY2Q2OTE1NjBmZDJjNDA2OTBkYzQ2MmE2NjcwMmNlZmE3OTMzMGVjZDZkOTkwYWVkYmU1ODAwNGJjNTNiN2I4MGRiZDZhYjRlYzNlN2Q0NWI2NTJhZWFlNTUiLCJoYXNoX21ldGEiOiJlMmM0YzRkYTU0ZTAyZDNkM2QxYjNhYmJkNGIwYWMzNjg5MjFlM2I4NjNkYjVmZWQ3YTE4ZDhjMzE4MDQzM2MwIiwic2Vxbm8iOjE1Mjk3MDR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidmFudmlua2Vucm95ZS5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDczMTgwNzUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzJjZDI5YjIxOTYxNjNkOTU4NWY4NTFmNDlmMWQ0ZWUyZmJmOTY0ODk0MTAxYzI3YmVjOTk4YzdhNzQ0MGIyMyIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEogsfW/xEvqho2C3s4Y4GPVsOHL4GEt0ERXftx0KvJnGssxNwWb/eZJLiZOhkmpTUuz9sCNfurmmLAGnVkDUQGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCEtWQYaAH9WfFxaSdiU5XXR0uJhspx1dH4kKUjmhQIUKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jvanvinkenroye
+
+==================================================================

@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="Bluefish 2.2.2" />
+<title>Jan Vanvinkenroye</title>
+
+<style type="text/css">
+
+ * {font-family: Courier,sans-serif;}
+
+h1 {
+	margin: 10px;
+	}
+
+#seitenleiste_rechts {
+	position: absolute;
+	top: 50px;
+	right: 10px;
+	width: 200px;
+	}
+
+#seitenleiste_links {
+	margin: 10px;
+	position: absolute;
+	top: 50px;
+	left: 10px;
+	width 200px;
+	}
+
+#mittelleiste {
+	margin-left: 161px;
+	margin-right: 161px;
+	}
+#impressum {
+	position: absolute;
+	right: 10px;
+	top: 350px;
+	width: 200px;
+	margin: 10px;
+	}
+ 
+</style>
+</head>
+<body>
+<h1>Jan Vanvinkenroye</h1>
+<div id="seitenleiste_rechts">
+<img height=287 width=190 align=center alt="Jan Vanvinkenroye" src="jan.jpg">
+<a href="http://flattr.com/thing/408201/Vanvinkenroye" target="_blank">
+</div>
+<div id="impressum">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a><br>
+Zuletzt aktualisiert am 17.05.13 
+<a href="impressum.html">Impressum</a>
+</div>
+<div id="seitenleiste_links">
+Profile:
+<ul>
+<li><a href="https://www.xing.com/profile/Jan_Vanvinkenroye">Meine Seite bei XING.</a></li>
+<li><a href="http://twitter.com/jvanvinkenroye">Mein Twitter Feed.</a></li>
+
+</ul>
+
+Projekte:
+<ul>
+<li><a href="http://shackspace.de">Hackerspace in Stuttgart.</a></li>
+<li><a href="http://www.kurve-jugendhilfe.de/">Kurve Jugendhilfe Region Stuttgart.</a></li>
+<li><a href="http://www.retinacast.de/">Retinacast - Der Podcast fuers Auge.</a></li>
+</ul>
+
+Job:
+<ul>
+<li><a href="http://diakonie-ludwigsburg.de/fileadmin/user_upload/unterseiten/Diakonische_Bezirksstelle/PSB-Bietigheim/Downloads/psb_teengruppeflyer.pdf">Teenprojekt der PSB Bietigheim-Bissingen.</a></li>
+<li><a href="http://www.tik.uni-stuttgart.de/ueberuns/mitarbeiter/vanvinkenroye/index.html">Universität Stuttgart, Technische Informations- und Kommunikationsdienste</a></li>
+</ul>
+</div>
+
+
+
+
+</body>
+</html>
